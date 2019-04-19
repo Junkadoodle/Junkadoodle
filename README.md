@@ -1,5 +1,8 @@
 # Junkadoodle
-Just download the Zip, unzip and start BallTest.exe. Have fun!
+Einfach die Rar-Datei runterladen, entpacken, BallTest.exe starten und Spaß haben!
 
-Questions? Contact me any time at mihd@gmx.de! Woohooo!!
+Noch Fragen offen? Schreib mir einfach unter mihd@gmx.de!
+
+Euer Max!
+
 
